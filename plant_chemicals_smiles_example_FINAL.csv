@@ -1,0 +1,35 @@
+Plant,Chemical,SMILES,Country_of_Origin,Country_Code
+Cannabis sativa,THC,CC(CC=C(C)C)C1=CC(=C(C=C1)O)C(C)C(=O)O,"Central/Western/Eastern Asia, USA","AS, US"
+Cannabis sativa,CBD,CC(C)(C1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)C(C)(C)C)O,"Central/Western/Eastern Asia, USA","AS, US"
+Coffea arabica,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Ethiopia,ET
+Coffea arabica,Chlorogenic acid,O[C@@H]1C[C@](O)(C[C@@H](OC(=O)\C=C\C2=CC(O)=C(O)C=C2)[C@@H]1O)C(O)=O,Ethiopia,ET
+Coffea arabica,Theobromine,CN1C=NC2=C1C(=O)NC(=O)N2C,Ethiopia,ET
+Nicotiana tabacum,Nicotine,CN1CCC[C@H]1C2=CN=CC=C2,Tropical/Subtropical America,AM
+Nicotiana tabacum,Nornicotine,n1cccc(c1)[C@H]2NCCC2,Tropical/Subtropical America,AM
+Nicotiana tabacum,Cotinine,CN1CCC[C@H]1C2=CN=CC=C2=O,Tropical/Subtropical America,AM
+Capsicum annuum,Capsaicin,CC(C)CCCC=CC(=O)NCC1=CC(=C(C=C1)O)OC,"Southern North, Caribbean, Northern South America","NA, CA, SA"
+Capsicum annuum,Capsanthin,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C(=O)[C@@]2(C[C@H](CC2(C)C)O)C)/C)/C,"Southern North, Caribbean, Northern South America","NA, CA, SA"
+Mentha piperita,Menthol,CC(C)C1CCC(C(C1)O)C,"Europe, Middle East","EU, ME"
+Mentha piperita,Menthone,O=C1C[C@H](C)CC[C@H]1C(C)C,"Europe, Middle East","EU, ME"
+Salvia officinalis,Thujone,CC1CCC2(C(C1)C(=O)C2)C,"Middle East, Mediterranean","ME, EU"
+Salvia officinalis,Camphor,CC1(C)C2CCC1(C)C(=O)C2,"Middle East, Mediterranean","ME, EU"
+Salvia officinalis,Alpha-thujone,CC1CCC2(C(C1)C(=O)C2)C,"Middle East, Mediterranean","ME, EU"
+Echinacea purpurea,Alkamides,CC(C)C=CC(=O)NCC1=CC=CC=C1,Eastern and Central North America,NA
+Echinacea purpurea,Cichoric acid,C1=CC(=C(C=C1C(=O)O)O)CC(=O)O,Eastern and Central North America,NA
+Echinacea purpurea,Polysaccharides,[Structure varies; generally complex carbohydrate chains],Eastern and Central North America,NA
+Aloe vera,Aloin,CC1=C(C(=O)C2=C(C1=O)C(=C(C=C2O)O)O)O,"Arabian Peninsula, Mediterranean, Africa, Asia, Europe, America","AS, ME, AF, EU, AM"
+Aloe vera,Barbaloin,CC1=C(C(=O)C2=C(C1=O)C(=C(C=C2O)O)O)O,"Arabian Peninsula, Mediterranean, Africa, Asia, Europe, America","AS, ME, AF, EU, AM"
+Aloe vera,Emodin,CC1=C(C(=O)C2=C(C1=O)C(=C(C=C2O)O)O)O,"Arabian Peninsula, Mediterranean, Africa, Asia, Europe, America","AS, ME, AF, EU, AM"
+Ginkgo biloba,Ginkgolides,[Complex diterpene structure; varies],"Eastern China, Korea, Japan","CN, KR, JP"
+Ginkgo biloba,Bilobalide,CC1=C(C(=O)C2=C(C1=O)C(=C(C=C2O)O)O)O,"Eastern China, Korea, Japan","CN, KR, JP"
+Lavandula angustifolia,Linalool,CC(C)=CC(C)(O)C=C,Mediterranean,EU
+Lavandula angustifolia,Linalyl acetate,CC(C)=CC(C)(OC(=O)C)C=C,Mediterranean,EU
+Filipendula ulmaria ,Salicylic acid,CC(=O)OC1=CC=CC=C1C(=O)O,Europe,EU
+Willow tree ,Paracetamol,CC(=O)Nc1ccc(O)cc1,North America,NA
+Wintergreen ,Ibuprofen,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,Asia,AS
+Galega officinalis ,Metformin,CN(C)C(=O)NCC(C)C,Europe,EU
+Spiraea alba,Methyl salicylate,CC(=O)OC1=CC=CC=C1O6,North America,NA
+Curcuma longa,Acetanilide,CC(=O)Nc1ccccc1,India,IN
+Gaultheria procumbens,Methyl ibuprofenate,CC(C)C1=CC=C(C=C1)C(C)C(=O)OC,Asia,AS
+Galega officinalis,Guanidine derivative,N=C(N)NCC(C)C,Europe,EU
+Penicillium spp.,Penicillin,CC1(C)S(=O)(=O)N2C(=O)C(NC(C)=O)C,Europe,EU
